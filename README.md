@@ -1,10 +1,8 @@
 # 👋 Olá, me chamo Gabriel!
 
-## 💻 Desenvolvedor Back-end e Front-end em formação
+## 💻 Desenvolvedor Back-end e Front-end
 
-Atualmente cursando Análise e Desenvolvimento de Sistemas, estou focado em me tornar um desenvolvedor fullstack.
-
-> "Memento Mori" - Uma lembrança para viver cada dia com propósito
+Cursei Análise e Desenvolvimento de Sistemas, e estou focado em me tornar um desenvolvedor fullstack.
 
 ### 🚀 Tecnologias & Habilidades
 
